@@ -33,7 +33,6 @@ A proposta da SoulUp é reduzir a distância entre a conscientização ambiental
 * Cadastro e autenticação
 * Perfil personalizado
 * Sistema de níveis sustentáveis
-* Histórico de ações realizadas
 
 ### 🌍 Ações Sustentáveis
 
@@ -45,15 +44,12 @@ A proposta da SoulUp é reduzir a distância entre a conscientização ambiental
 ### 🏆 Gamificação
 
 * Sistema de XP e níveis
-* Ranking global de usuários
 * Conquistas e progressão
 * Recompensas por desempenho
 
 ### 📊 Métricas Ambientais
 
 * CO₂ evitado
-* Água economizada
-* Equivalente em árvores plantadas
 
 ---
 
@@ -63,18 +59,11 @@ A proposta da SoulUp é reduzir a distância entre a conscientização ambiental
 
 * Java
 * Programação Orientada a Objetos (POO)
-* JDBC / Banco de Dados Relacional
-
-### Banco de Dados
-
-* Oracle SQL
-* Modelagem Relacional
 
 ### Ferramentas
 
 * IntelliJ IDEA
 * Git & GitHub
-* Figma
 
 ---
 
@@ -118,24 +107,12 @@ SoulUp/
 │   ├── controller/
 │   ├── repository/
 │   └── view/
-├── database/
 ├── docs/
 └── README.md
 ```
 
 ---
 
-## 📌 Níveis do Sistema
-
-| Nível                   | Descrição                             |
-| ----------------------- | ------------------------------------- |
-| 🌱 Iniciante            | Primeiro contato com sustentabilidade |
-| 🍃 Aprendiz Sustentável | Desenvolvimento de hábitos ecológicos |
-| 🌎 Consciência Verde    | Participação frequente                |
-| ⚡ Eco Herói             | Alto impacto sustentável              |
-| 👑 Guardião da Terra    | Referência na comunidade              |
-
----
 
 ## 📷 Conceito da Plataforma
 
@@ -208,8 +185,8 @@ Sinta-se à vontade para abrir issues, sugerir melhorias ou contribuir com novas
 
 Caso queira trocar ideias sobre o projeto:
 
-* GitHub: *adicione seu link aqui*
-* LinkedIn: *adicione seu link aqui*
+* GitHub: *Pedro-H-Salvatore*
+* LinkedIn: *https://www.linkedin.com/in/pedro-salvatore-a4a2763b7/*
 
 ---
 
